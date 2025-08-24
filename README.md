@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis – Summary
+# Customer Churn Analysis – Summary
 
 ## 1. Overall Churn Rate
 - **Graph:** Pie chart  
@@ -77,7 +77,7 @@
 
 ---
 
-## ✅ Overall Action Plan
+## Overall Action Plan
 1. Improve onboarding experience to reduce early churn.  
 2. Incentivize long-term contracts with discounts & perks.  
 3. Target high-risk segments (Fiber, Month-to-Month, Seniors, E-Check users).  
